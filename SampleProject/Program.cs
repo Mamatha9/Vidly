@@ -12,6 +12,7 @@ namespace SampleProject
         {
             Console.WriteLine(" Hello World");
             Console.WriteLine(" I just added a line");
+            Console.ReadLine();
         }
     }
 }
